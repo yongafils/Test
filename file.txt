@@ -1,0 +1,14 @@
+public static String ToString() {
+	
+	Point p = new Point(0,0);
+	
+	
+	int rayon=5;
+	
+	
+	String s = "ce point a pour centre" + p + "et de rayon" + rayon;
+	
+	return s;
+	 
+	
+}
